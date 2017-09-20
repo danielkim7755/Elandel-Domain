@@ -22,6 +22,8 @@
     padding-left: 250px;
 }
 
+
+/* SideBar Attributes */
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
@@ -74,6 +76,7 @@
     color: #999999;
 }
 
+/* Hover Color */
 .sidebar-nav li a:hover {
     text-decoration: none;
     color: #fff;
@@ -91,8 +94,10 @@
     line-height: 60px;
 }
 
+/* Logo Font Color */
 .sidebar-nav > .sidebar-brand a {
-    color: #999999;
+    color: #00FFFF;
+    /* color: #999999; */
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
